@@ -1,11 +1,7 @@
 	
 	<!DOCTYPE html>
 <html>
-	<head>
-		<title>STATISTICAL NATURAL LANGUAGE PROCESSING</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
+
 	<body>
 	<h1>COURSE CODE: CSE6060</h1>
 		<h2>19MCB0028</h2>
