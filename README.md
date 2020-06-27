@@ -1,4 +1,4 @@
-# nlp-tasks
+
 SNLP TASKS
 
 <h1>STATISTICAL NATURAL LANGUAGE PROCESSING</h1>
@@ -10,11 +10,11 @@ SNLP TASKS
 			<li>MINI PROJECT REVIEW 1:</li></br>
 			<li>LABS:</li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 EXPLORE COCO CORPUS</a></li></br>
-			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab2.ipynb">LAB2</a></li></br>
-			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab3.ipynb">LAB3</a></li></br>
-  			<li>ASSIGNMENTS:
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 </a></li></br>
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
+  			<li>Additionals Tasks:
     			<ul>
-				<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Most_frequently_used_word.ipynb">1-Most frequently used word using frequency</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">1-Most frequently used word </a></li></br>
 				<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/explore_coca_corpus.docx.pdf">2-Explore-coca-corpus</a></li></br>
 				<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/snowballstemming.ipynb">3-SnowballStemming</a></li></br>
 				<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/pos-tagging-corpus-data.ipynb">4-POS-Tagging-in-corpus</a></li></br>
