@@ -9,7 +9,7 @@
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 EXPLORE COCO CORPUS</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
-  			<li>Additionals Tasks:
+  			<li>Additionals Tasks: </li><br/>
     			<ul>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">Most frequently used word </a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">Explore-coca-corpus</a></li></br>
