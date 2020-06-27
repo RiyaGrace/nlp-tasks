@@ -1,5 +1,6 @@
 # 19MCB0028 RIYA GRACE ZACHARIAH - SNLP_Tasks
 
+Mini Project Review 1
 CLASS WORK
  
  -> LAB1(Explore Corpus,CFD) -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb
@@ -8,11 +9,7 @@ CLASS WORK
 
  -> LAB3(Wordlist,Vectorizing,Cosine Similarity)-https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb
  
- -> LAB4(Chunking) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
- 
- -> LAB5(Classification using Logistic Regression) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
- 
-Additional Tasks
+ Additional Tasks
 
 1-Most frequently used word - https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb
 
@@ -25,3 +22,11 @@ Additional Tasks
 5-Cosine Similarity between 2 documents - https://github.com/RiyaGrace/nlp-tasks/blob/master/COSINE_SIMILARITY.ipynb
 
 6-Lemmatization              - https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb
+
+Mini Project Review 2
+
+-> LAB4(Chunking) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
+ 
+-> LAB5(Classification using Logistic Regression) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
+
+-> 5 features using regional language (malayalam) - 
