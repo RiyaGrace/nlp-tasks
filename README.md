@@ -1,7 +1,6 @@
 # nlp-tasks
 SNLP TASKS
 
-<a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Embedding.ipynb"></a> <br>
 <h1>STATISTICAL NATURAL LANGUAGE PROCESSING</h1>
 		<h1>COURSE CODE: CSE6060</h1>
 		<h2>19MAI0047</h2>
@@ -10,7 +9,7 @@ SNLP TASKS
     		<ul> 
 			<li>MINI PROJECT REVIEW 1:</li></br>
 			<li>LABS:</li></br>
-			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab1.ipynb">LAB1</a></li></br>
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 EXPLORE COCO CORPUS</a></li></br>
 			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab2.ipynb">LAB2</a></li></br>
 			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/lab3.ipynb">LAB3</a></li></br>
   			<li>ASSIGNMENTS:
