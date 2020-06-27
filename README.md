@@ -1,7 +1,7 @@
 # nlp-tasks
 SNLP TASKS
 
-<a href="paste here link name of ipynb in jupyter ">1. TITLE NAME</a> <br>
+<a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Embedding.ipynb"></a> <br>
 <h1>STATISTICAL NATURAL LANGUAGE PROCESSING</h1>
 		<h1>COURSE CODE: CSE6060</h1>
 		<h2>19MAI0047</h2>
