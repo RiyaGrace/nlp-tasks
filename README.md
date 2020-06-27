@@ -2,9 +2,7 @@
 <html>
 	<head> </head>
 	<body>
-	<h1>COURSE CODE: CSE6060</h1>
-		<h2>19MCB0028</h2>
-		<h2>RIYA GRACE</h2>
+	<h1>COURSE : CSE6060 19MCB0028 RIYA GRACE</h1>
 		<nav>
     		<ul> 
 			<li>MINI PROJECT REVIEW 1:</li></br>
