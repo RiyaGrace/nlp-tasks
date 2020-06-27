@@ -1,7 +1,6 @@
 # 19MCB0028 RIYA GRACE ZACHARIAH - SNLP_Tasks
 
 Mini Project Review 1
-CLASS WORK
  
  -> LAB1(Explore Corpus,CFD) -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb
  
