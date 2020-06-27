@@ -25,7 +25,9 @@
 			Tasks: </br>
 			
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">Lab4 Chunking + Extra Work (Web_Scraping_Cinderalla) </a></li></br>
-			
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">Lab5 Embedding</a></li></br>
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb">5 features using regional language data (Malayalam)                                       </a></li></br>
+  			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">Review papers about regional languages</a></li></br>
 			
 		</ul>
 		</nav>
