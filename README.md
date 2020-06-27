@@ -12,13 +12,13 @@
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
   			<li>Additionals Tasks:
     			<ul>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">1-Most frequently used word </a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">2-Explore-coca-corpus</a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20OF%20ANY%203%20FAMOUS%20PEOPLE-%202.ipynb">2-Explore-coca-corpus-2</a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Snowball_Stemming.ipynb">3-SnowballStemming</a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/POS_TAGGING.ipynb">4-POS-Tagging-in-corpus</a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/COSINE_SIMILARITY.ipynb">5-cosine similarity between 2 documents</a></li></br>
-				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">5-Lemmatization</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">Most frequently used word </a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">Explore-coca-corpus</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20OF%20ANY%203%20FAMOUS%20PEOPLE-%202.ipynb">Explore-coca-corpus-2</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Snowball_Stemming.ipynb">SnowballStemming</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/POS_TAGGING.ipynb">POS-Tagging-in-corpus</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/COSINE_SIMILARITY.ipynb">Cosine similarity between 2 documents</a></li></br>
+				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">Lemmatization</a></li></br>
     			</ul>
   		
 		<ul> 
