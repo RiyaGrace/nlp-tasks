@@ -30,6 +30,7 @@
   			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">Review papers about regional languages</a></li></br>
 			
 		</ul>
+		</ul>
 		</nav>
 		
 		<footer>
