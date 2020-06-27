@@ -8,6 +8,10 @@ CLASS WORK
 
  -> LAB3 -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb
  
+ -> LAB4 -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
+ 
+ -> LAB5 -
+ 
 Additional Tasks
 
 1-Most frequently used word - https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb
