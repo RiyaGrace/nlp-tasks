@@ -1,4 +1,3 @@
-	
 <html>
 	<head> </head>
 	<body>
@@ -10,8 +9,7 @@
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 EXPLORE COCO CORPUS</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
-  		
-		<li> Additionals Tasks:
+  			<li>Additionals Tasks:
     			<ul>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">Most frequently used word </a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">Explore-coca-corpus</a></li></br>
@@ -26,11 +24,12 @@
 			MINI PROJECT REVIEW 2: </br>
 			Tasks: </br>
 			
-			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">Lab4 Chunking + Web Scraping HW(Cinderalla)</a></li></br>
+			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">Lab4 Chunking + Extra Work (Web_Scraping_Cinderalla) </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">Lab5 Embedding</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb">5 features using regional language data (Malayalam)                                       </a></li></br>
   			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">Review papers about regional languages</a></li></br>
-			
+			Homeworks: </br>
+			<li><a href="">Named entity recognition using web scraping</a></li></br>
 		</ul>
 		</nav>
 		
