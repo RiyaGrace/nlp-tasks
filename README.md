@@ -22,8 +22,8 @@
 					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">LEMMATIZATION</a><br/>
 			</div>
 		<div class="head"><h2>MINI PROJECT REVIEW 2: </h2></div><br/>
-			<div class="inner-box">
-				<h3> </h3><br/>	
+			<div class="inner-box"> </br>
+				<h3> TASKS </h3><br/>	
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">LAB4 CHUNKING + EXTRA WORK (Web_Scraping_Cinderalla) </a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">LAB5 EMBEDDING</a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb">5 FEATURES USING REGIONAL LANGUAGE (Malayalam)</a><br/>
