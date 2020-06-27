@@ -19,7 +19,7 @@
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/COSINE_SIMILARITY.ipynb">Cosine similarity between 2 documents</a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">Lemmatization</a></li></br>
     			</ul>
-  		
+  		</ul>
 		<ul> 
 			MINI PROJECT REVIEW 2: </br>
 			Tasks: </br>
@@ -30,7 +30,7 @@
   			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">Review papers about regional languages</a></li></br>
 			
 		</ul>
-		</ul>
+		
 		</nav>
 		
 		<footer>
