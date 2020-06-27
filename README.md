@@ -1,28 +1,5 @@
 <html>
 	<head>
-	<title>CSE6060- (19MCB0028 RIYA GRACE)</title>
-	<style>
-		.outer-box{
-			margin-top:40px;
-		/*	border: 2px solid #222; */
-		}
-		.inner-box{
-			/* border: 2px solid #222; */
-			padding-left:20px;
-			padding-bottom:30px;
-		}
-		.inner-box > a{
-			line-height:1.5;
-			padding:20px;
-			font-size: 18px;
-		}
-		.head{
-		padding-left:20px;
-			display:inline-block;
-			width:400px;
-			border-bottom: 2px solid #666;
-		}
-	</style>
 	</head>
 	<body>
 		<h1>COURSE : CSE6060</h1>
