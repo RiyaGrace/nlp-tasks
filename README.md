@@ -23,8 +23,7 @@
   		
 		<ul> 
 			MINI PROJECT REVIEW 2: </br>
-			<li>Tasks:</li></br>
-			<li>1)Embedding</li></br>
+			Tasks: </br>
 			
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">Lab4 Chunking</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">Lab5 Embedding</a></li></br>
