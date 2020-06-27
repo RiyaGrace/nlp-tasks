@@ -1,6 +1,6 @@
+#MINI PROJECT REVIEW 1:
 
-	<li>MINI PROJECT REVIEW 1:</li></br>
-			<li>LABS:</li></br>
+			LABS:
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 Explore CoCa Corpus,CFD </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 Stemming, Lemmatization,POS</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3 WordList, Vectorizing, Cosine Similarity</a></li></br>
