@@ -5,8 +5,8 @@
 	<h1>COURSE : CSE6060 19MCB0028 RIYA GRACE</h1>
 		<nav>
     		<ul> 
-			<li>MINI PROJECT REVIEW 1:</li></br>
-			<li>LABS:</li></br>
+			MINI PROJECT REVIEW 1:</br>
+			LABS:</br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb">LAB1 EXPLORE COCO CORPUS</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
@@ -23,7 +23,7 @@
   			
 		</ul>
 		<ul> 
-			<li>MINI PROJECT REVIEW 2:</li></br>
+			MINI PROJECT REVIEW 2: </br>
 			<li>Tasks:</li></br>
 			<li>1)Embedding</li></br>
 			<li><a href="https://github.com/deepthivj-aiml/deepthivj-aiml.github.io/blob/master/Embedding.ipynb">Embedding(done in lab)</a></li></br>
