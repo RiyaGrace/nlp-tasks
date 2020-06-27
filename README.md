@@ -3,8 +3,8 @@ SNLP TASKS
 
 <h1>STATISTICAL NATURAL LANGUAGE PROCESSING</h1>
 		<h1>COURSE CODE: CSE6060</h1>
-		<h2>19MAI0047</h2>
-		<h2>DEEPTHI V J</h2>
+		<h2>19MCB0028</h2>
+		<h2>RIYA GRACE</h2>
 		<nav>
     		<ul> 
 			<li>MINI PROJECT REVIEW 1:</li></br>
