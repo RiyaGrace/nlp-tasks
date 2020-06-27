@@ -22,7 +22,7 @@
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Snowball_Stemming.ipynb">3-SnowballStemming</a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/POS_TAGGING.ipynb">4-POS-Tagging-in-corpus</a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/COSINE_SIMILARITY.ipynb">5-Cosine similarity between 2 documents</a></li></br>
-    	<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">6-Lemmatization</a></li></br>
+    	                        <li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lemmatization.ipynb">6-Lemmatization</a></li></br>
     			</ul>
   			</li>
   			
