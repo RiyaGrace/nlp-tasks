@@ -32,4 +32,4 @@ Mini Project Review 2
 
 -> Real time application -> https://morph.smc.org.in/ner
 
--> 3 related papers - > 
+-> Review papers - > https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf
