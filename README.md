@@ -2,15 +2,15 @@
 
 CLASS WORK
  
- -> LAB1 -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb
+ -> LAB1(Explore Corpus,CFD) -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb
  
- -> LAB2 -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb
+ -> LAB2(Stemmming,Lemmatizing,POS) -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb
 
- -> LAB3 -https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb
+ -> LAB3(Wordlist,Vectorizing,Cosine Similarity)-https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb
  
- -> LAB4 -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
+ -> LAB4(Chunking) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
  
- -> LAB5 -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
+ -> LAB5(Classification using Logistic Regression) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
  
 Additional Tasks
 
