@@ -28,8 +28,7 @@
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">Lab5 Embedding</a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb">5 features using regional language data (Malayalam)                                       </a></li></br>
   			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">Review papers about regional languages</a></li></br>
-			Homeworks: </br>
-			<li><a href="">Named entity recognition using web scraping</a></li></br>
+			
 		</ul>
 		</nav>
 		
