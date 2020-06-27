@@ -27,7 +27,8 @@
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb">LAB4 CHUNKING + EXTRA WORK (Web_Scraping_Cinderalla) </a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb">LAB5 EMBEDDING</a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb">5 FEATURES USING REGIONAL LANGUAGE (Malayalam)</a><br/>
-				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">REVIEW PAPERS ABOUT REGIONAL LANGUAGE </a><br/>	
+				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Review%20Papers.pdf">REVIEW PAPERS ABOUT REGIONAL LANGUAGE </a><br/>
+	 <a href="https://morph.smc.org.in/ner">REAL TIME APPLICATION </a><br/>
 			</div>
 		</div>
 	</body>
