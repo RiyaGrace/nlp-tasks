@@ -29,3 +29,7 @@ Mini Project Review 2
 -> LAB5(Classification using Logistic Regression) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
 
 -> 5 features using regional language (malayalam) - https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb
+
+-> Real time application -> https://morph.smc.org.in/ner
+
+-> 3 related papers - > 
