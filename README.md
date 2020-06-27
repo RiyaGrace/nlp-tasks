@@ -11,14 +11,14 @@
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 </a></li></br>
 			<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3</a></li></br>
   			<li>Additionals Tasks:
-    			
+    			<ul>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">1-Most frequently used word </a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">2-Explore-coca-corpus</a></li></br>
 				<li><a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20OF%20ANY%203%20FAMOUS%20PEOPLE-%202.ipynb">2-Explore-coca-corpus-2</a></li></br>
 				<li><a href="">3-SnowballStemming</a></li></br>
 				<li><a href="">4-POS-Tagging-in-corpus</a></li></br>
 				<li><a href="">5-cosine similarity between 2 documents</a></li></br>
-    			
+    			</ul>
   		
 		<ul> 
 			MINI PROJECT REVIEW 2: </br>
