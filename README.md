@@ -10,7 +10,7 @@ CLASS WORK
  
  -> LAB4 -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
  
- -> LAB5 -
+ -> LAB5 -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
  
 Additional Tasks
 
