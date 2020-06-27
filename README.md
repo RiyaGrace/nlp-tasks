@@ -1,7 +1,7 @@
 	
 	<!DOCTYPE html>
 <html>
-
+	<head> </head>
 	<body>
 	<h1>COURSE CODE: CSE6060</h1>
 		<h2>19MCB0028</h2>
