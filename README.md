@@ -26,7 +26,7 @@ Mini Project Review 2
 
 -> LAB4(Chunking) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab4.ipynb
  
--> LAB5(Classification using Logistic Regression) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
+-> LAB5(Embedding) -https://github.com/RiyaGrace/nlp-tasks/blob/master/Lab5.ipynb
 
 -> 5 features using regional language (malayalam) - https://github.com/RiyaGrace/nlp-tasks/blob/master/5featuresUsingRegionalLang.ipynb
 
