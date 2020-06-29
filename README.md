@@ -13,7 +13,7 @@
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb">LAB2 STEMMING,LEMMATIZING,POS</a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb">LAB3 WORDLIST,VECTORIZING,COSINE SIMILARITY</a><br/>
 				<h3>Additionals Tasks: </h3><br/>
-					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">Most frequently used word </a><br/>
+					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/MOST_FREQ_USED_WORD.ipynb">MOST FREQUENTLY USED WORD </a><br/>
 					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20ANY%203%20FAMOUS%20PEOPLE.pdf">EXPLORE COCA CORPUS OF FAMOUS 3 PEOPLE</a><br/>
 					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/EXPLORE%20COCA%20CORPUS%20OF%20OF%20ANY%203%20FAMOUS%20PEOPLE-%202.ipynb">EXPLORE COCA CORPUS OF FAMOUS 3 PEOPLE PART-2</a><br/>
 					<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/Snowball_Stemming.ipynb">SNOWBALLSTEMMING</a><br/>
