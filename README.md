@@ -2,13 +2,13 @@
 	<head>
 	</head>
 	<body>
-		<h1>COURSE : </h1>
-		<h1>STUDENT: RIYA GRACE</h1>
+		<h1> </h1>
+		<h1>RIYA GRACE ZACHARIAH </h1>
 		<br/><br/>
 		<div class="outer-box">
 		<div class="head"><h2>:</h2></div></br/>
 			<div class="inner-box">
-				<h3>LABS:</h3></br>
+				<h3> </h3></br>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb"> EXPLORE CORPUS, CFD</a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB2_TASKS.ipynb"> STEMMING,LEMMATIZING,POS</a><br/>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB3_TASKS.ipynb"> WORDLIST,VECTORIZING,COSINE SIMILARITY</a><br/>
