@@ -6,7 +6,7 @@
 		<h1>RIYA GRACE ZACHARIAH </h1>
 		<br/><br/>
 		<div class="outer-box">
-		<div class="head"><h2>:</h2></div></br/>
+		<div class="head"><h2></h2></div></br/>
 			<div class="inner-box">
 				<h3> </h3></br>
 				<a href="https://github.com/RiyaGrace/nlp-tasks/blob/master/LAB1_TASKS.ipynb"> EXPLORE CORPUS, CFD</a><br/>
